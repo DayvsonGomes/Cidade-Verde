@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Nosso projeto tem como intuito a inclusão de pessoas em cidades sustentáveis, proporcionando uma maior qualidade de vida
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
