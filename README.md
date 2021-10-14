@@ -1,11 +1,11 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://www.iberdrola.com/wcorp/gc/prod/pt_BR/comunicacion/ciudades_sostenibles_1_res/CiudadesSostenibles.jpg)
+![Capa do Projeto](https://i.picsum.photos/id/1029/4887/2759.jpg?hmac=uMSExsgG8_PWwP9he9Y0LQ4bFDLlij7voa9lU9KMXDE)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Nosso projeto tem como intuito a inclusão de pessoas em cidades sustentáveis, proporcionando uma melhor qualidade de vida e bem estar de todos que ali habitam, entre esses tópicos podemos citar: arborização das ruas, reciclaclem de todo o lixo produzido na cidade, instalação de ciclovias, melhorias no transporte público com pistas exclusivas, delimitação de parques, projetos sociais como o plantio de mudas e também palestras sobre a importância de reciclar o lixo.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
