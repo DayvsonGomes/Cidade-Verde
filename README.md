@@ -1,7 +1,7 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://i.picsum.photos/id/1029/4887/2759.jpg?hmac=uMSExsgG8_PWwP9he9Y0LQ4bFDLlij7voa9lU9KMXDE)
 
 # Sobre o Projeto
 
