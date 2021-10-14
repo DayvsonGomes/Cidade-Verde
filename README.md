@@ -1,7 +1,7 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://s2.glbimg.com/qiouqSfZiH6kZO3BR7uGKlWHTnw=/smart/e.glbimg.com/og/ed/f/original/2018/05/15/foster-partners-india-masterplan-sustainable-city_dezeen_2364_hero_a-852x479.jpg)
+![Capa do Projeto](https://www.iberdrola.com/wcorp/gc/prod/pt_BR/comunicacion/ciudades_sostenibles_1_res/CiudadesSostenibles.jpg)
 
 # Sobre o Projeto
 
