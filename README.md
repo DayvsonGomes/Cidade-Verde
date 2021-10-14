@@ -1,7 +1,8 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://pt.vecteezy.com/arte-vetorial/2165766-conceito-de-eco-cidade-na-natureza
+)
 
 # Sobre o Projeto
 
