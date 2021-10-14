@@ -5,8 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
+Nosso projeto tem como intuito a inclusão de pessoas em cidades sustentáveis, proporcionando maior qualidade de vida e bem estar. Podemos citar alguns tópicos como: arborização das ruas, reciclagem de todo o lixo produzido na cidade, vias exclusivas para o transporte público, projetos sociais que envolva a população em busca de uma cidade mais sustentável, construção de ciclovias, delimitação de parques.
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
